@@ -104,6 +104,20 @@ Rules and Best practices:
 - AND
 - OR
 - NOT
+**Truth table for AND , OR**  
+| P	| Q	| AND | OR  | 
+|---|---|-----|-----|
+| T	| T |	T   |	 T  |	
+| T	| F	| F	  |  T	|
+| F	| T |	F  	|  T	|
+| F	| F |	F   |	 F  |
+
+**Truth table for NOT**
+| P | NOT |
+|---|-----|
+| T | F   |
+| F | T   |
+
 
 ### 4. Assignment Operator
  =, +=,-=,*=,/=, **=, //=, %=, &=, !=, ^=, >>=, <<=, := 
