@@ -1,0 +1,1222 @@
+Mahesh 
+
+Create a Google account with name or id: 
+
+mahesh_odinschool@gmail.com
+
+or Mahesh_Python@gmail.com
+
+Create this account after the session!!!! 
+
+This is One type of IDE 
+
+Intergrated Development Environment!
+
+JupyterNotebook
+Pycharm
+VS Code 
+
+Code ---- Programming Languages!!!! C, C++. Java, Python 
+
+Query -- Database!!!! 
+
+When you want to mention the STRING data --- You need to mention in Quotes either single or double 
+
+For the Numeric data --- NO NEED TO mention Quotes!!!!!! 
+
+
+ok...double quotes and single quotes for strings and numeric we should not enter quotes  ----- TRUE!!!!!!!!!
+
+is that mandatory to use brackets?
+
+
+New born baby!!!!! ---- can I call the baby after 1 year as a New Born Baby? 
+
+
+Name is providing to the baby!!!! --- Mahesh 
+
+Assigning a name to the value  ------ Variable!!!!!!
+
+
+123 Mahesh? 
+
+string need brackets,and print statement where as numeric don't need bracket and print statement
+
+You would like to take a print out --- of a page!!!! 
+
+is boders matters a lot? 
+
+
+string need brackets,and print statement where as numeric don't need bracket and print statement
+
+Rules or conditions of defining a variable: 
+
+Should not start with Numbers!!!!
+Should not start with Special charaters!!! @ $ % & !
+Should not have Space between the words
+When you have a Space between the words you need to use _ (Underscore)
+
+
+
+# is used for COMMENT!!!!! 
+
+
+Team!!!!!
+
+Abdul
+
+Prathyusha
+
+Duryodana
+
+Mahesh
+
+Rajya Lakshmi --- Team Lead!!!!
+
+
+P.Mahesh!!!!!! 
+
+Name ---- Container
+
+name --- Container!!!
+
+Mahesh.P --- Hyderabad
+
+mahesh. p ---- Chennai
+
+
+When you are new born baby!!!!! ---- Your parents!!!! --- -Nameing Ceremony!!!!!
+
+On a First attempt will your name decided? 
+
+Attempt 1 ---- Naga Mahesh Kumar
+Attempt 2 -----  Sai Naga Mahesh
+Attempt 3 ----- Naga Sai Mahesh Kumar
+Attempt 4 --- Mahesh Kumar
+
+
+Same Person!!!! Attempt 4 --- Mahesh Kumar
+
+
+Data Types!!!!! 
+
+when name="false" is given, y just false is diplayed in output instead of 'false'
+
+
+Boolean == True or False 
+
+
+Mahesh Babu
+
+
++ ==== Addition!!!!!
+
+
+in floor the values are rounded off to the previous value and in roof the values are rounded off to next value
+
+
+Floor Division ---- //
+
+roof division 
+
+Hyderabad --- India 
+
+Hyderabad --- Pakistan
+
+	Divisor 
+
+Divident 	5)625(125 --- Quotient
+	   5
+-------------------
+	    12	
+	    10
+-------------------
+                     25
+	      25
+-----------------------
+	        0 ---- Modulus (Reminder) 
+
+Truth Tables!!!! 
+
+AND === Multiplication 
+A	A	A AND B
+1 	0 	0 
+0	1	0
+0	0	0
+1	1	1
+
+OR === Addition
+A	B 	A OR B
+0	0	0
+0	1	1
+1	0	1	
+1	1	1
+
+NOT
+
+0	1
+1	0
+
+Bit-wise!!!! 
+
+Bit by bit!!!!!
+
+What is the binary value of 10 
+
+32 16 8 4 2 1
+
+10 = 1010
+20 == 10100
+
+
+	16	8	4	2	1
+10 	0	1	0	1	0
+20	1	0	1	0	0	
+
+10 & 20	0	0	0	0	0 --- 0000 --- 0
+
+
+When I performing comparison Operator ---- 
+
+
+	32	16	8	4	2	1
+34 	1	0	0	0	1	0
+22	0	1	0	1	1	0
+
+34 & 22	0	0	0	0	1	0 ====  00010 --- 2 	
+
+
+
+1 -- ON 
+0 -- OFF 
+
+I want the result as 3 which swicthes I need to TURN ON!!!!!
+
+32	16	8	4	2	1
+
+0	0	0	0	1	1
+
+00010 --- 2 
+
+2 ^ n 
+
+2 ^0 = 1
+2 ^ 1 = 2
+2^2 =4 
+
+Comparison operator ---- Boolean --- Either True or False
+
+Bit-wise operator -- Interger ----- 1 2 3 4 5 6 
+
+
+
+to compare two values, we use comparision operator and to combine conditions we use logical operator, likewise practically where exactly we use this bitwise check operator?
+
+In order to check the data through BIT-WISE or BINARY wise data!!!!
+
+
+I could understand a bit yes, but since I am from a non tech background, can you suggest some video or article I can use to understand this binary concept, since I have used arithmetic, conditional and comparison I can grasp the idea but not sure why Bitwise operator is used for and how
+
+Go through the ARTICLE on the how BINARY Values are calculated!!!
+
+Difference between Expression and Equation!!!!
+
+
+ax + b = 0  ==== Equation 
+
+ax + b === Expression 
+
+BODMAS RULE!!!!! ----
+
+B -- Brackets or Parenthesis
+O -- OF
+D --- Division
+M -- Multiplication
+A --- Addition
+S -- Subtraction 
+
+Operator Precedence 
+
+(55+999*10000/100) - 100000
+
+Step 1: 
+(55+999*(10000/100))
+
+Step 2: 
+10000/100
+
+Step 3: 
+
+999*100
+
+Step 4: 
+(55+99900) 
+
+Step 5: 
+
+(99,955) - 100000 == -45
+
+
+Example!!!!!
+
+You are using Android phone for past 5 years ---- If I ask you to change the ringtone!!!!! ---- < 2 Mins
+
+I offered you Iphone ---- If I ask you to change the ringtone!!!!! ---- 5 to 10 mins!!!! 
+
+You will go through the DOC!!!! or Research on Google!!!! or You will go through the YouTube!!! or you will search from your end!!!!
+
+difference between membership and identity operators ?
+
+Apple ---- Do i have e "IN" the word APPLE === YES
+
+
+identity a= Apple 
+b = Apple
+
+IS a = b? 
+
+Conditional Statements: if, if-else, if-elif
+
+
+Conditional === providing a set of rules to a statement 
+
+Statement
+
+In this class 50 ppl!!!
+
+out of which I want to how many Males and Females!!!!
+
+If my data is equal to Males ==== A 
+Otherwise ===B 
+
+Conditional Statements are 
+
+IF -- -ONLY one Condition!!!!! 
+
+IF Else
+
+IF ELIF ELSE
+
+NESTED IF 
+
+Ternary IF-Else 
+
+Indentation -- 4 spaces or hit Tab from your Keyboard
+
+
+
+I want the output as  The number 2.3 is positive.
+
+Index 
+
+
+Mahesh --- 
+
+M==0
+A== 1
+H ===2 
+E==3
+S==4
+H==5 
+
+
+Logic OR 
+
+A 	B 	A OR B
+0	0	0	
+0	1	1
+1	0	1
+1	1	1
+
+
+
+
+word =input("enter the word:")
+if word[0]=="A" or word[0]=="a":
+print("The word starts with 'A'") what is wrong in this sir i am not able to excute
+
+
+When to use SQUARE Bracket
+
+
+WHen you want to see the INDEX or the position of the data!!!! [ ]
+
+WHen I use IF Condition!!! ---- Only 1 Output!!!!! 
+
+IF ELSE condition --- 1 condition with 2 Outputs!!!!!! 
+
+1 Condition with multiple outputs!!! 
+
+IF ELIF ELSE!!!!! 
+
+Check if a number is positive, negative, or zero
+
+If Num > 0 --- Positive
+If num < 0 -- Negative
+ELse ---0 
+
+just a query, I know that integers can be negative, posititve or a zero
+
+Like ...-2, -1, 0, 1, 2 ...
+
+So why is that we are using float in this?
+
+AND Operation === Multiplication
+
+a = int(input("enter a number"))
+b = int(input("enter a number"))
+result = a if a>b else b
+
+result = 34 if 34>54 else 54
+
+
+print(result)
+
+
+result = 54 if 54>23 else 23
+
+
+Num = Num+ 1
+
+I will be back in a Minute!!!
+
+
+1 Minute!!!! I'm not back after 1 Min ==== 
+
+a += 5
+
+a = a+ 5
+
+num -=1
+num = num -1
+
+
+For Loop -- You need tp specific some range in the data
+
+
+range ( Start, Stop, step)
+
+Start --n, 
+
+Stop n-1 
+
+
+1,5
+
+Start will be 1 
+Stop will be 5 
+
+How many values!!! 
+
+for even in range(2,11,2):
+print(even)
+
+
+##can you please tell the use of {},[],()
+
+{ } === We use in the Print statement for the formatting 
+
+print(f"{num}
+
+[ ] == =List of values using comma seperated!!!!! and also for the column index number
+
+a = "Mahesh"
+
+a[3] = "e"
+
+( ) 
+
+
+Week 2 Day 1 
+
+Loop Controls!!! 
+
+Break statement -- it used to terminate the RUNNING loop 
+
+Continue -- It is used to skip the currrent iteration of the loop 
+
+num = 5 
+1
+2
+3
+4
+5
+6
+
+Output will be 
+1
+2
+3
+4
+6
+
+
+
+
+For example!!!  
+
+If you are travelling from Hyd to Delhi!!!! --- Without breakes (HALT or STOP ) will you travel. 
+
+For Lunch
+For Fuel
+For Snacks
+For tea
+
+While is an Infinite loop!!!! untill and Unless the Condition is TRUE!!!!! 
+
+In realtime!!!!! ---- 
+
+Break!!!! --- Terminate the loop --- 
+
+OTP Verification --- you will be having certain time limit!!!!!  you need to enter the OTP within 2 minutes!!!!!! ---- Break!!! 
+
+Continue!!!!! -- When you are using the ATM PIN password!!!!! --- attempts!!!! to give a try!!! until and unless you enter the correct pin!!!!
+
+Break!!! if you enter 3 times incorrect you need to contact the bank. 
+
+
+String data!!!! --- Characters!!!! 
+
+How string data is represented in Python in Quotes either in single or double quotes!!!
+
+I want to retrive only Y letter from PYTHON? by using the concept called as "INDEXING" 
+
+In Python --- INDEX always starts from 0 (ZERO) 
+
+
+I'm learning Python
+
+Total len == 19 
+
+I can get the particular char in the string!!!! by using INDEXING concept!!!! SINGLE CHARACTER 
+
+Positive Indexing !!!
+Negative Indexing!!!!
+
+
+"Python Programming"
+
+[Start: Stop: Step] --- SLICING!!!!! breaking the data to get your approrpiate information or data
+
+
+range(start: stop: step)
+
+
+I'm leaning Python programming Language
+
+I --  0 
+' --- 1
+m --- 2
+ ---- 3
+l -- 4 
+
+"    Mahesh   " 
+ As an exercise I want you ppl to make a document on the functions that we use in the STRING manipulations!!!!!
+
+Lower 
+Upper
+Strip
+Count
+len
+Reverse
+Indexing
+replace
+
+
+LIST!!!! ----- What do you understand by the term LIST!!!!! 
+
+Collection of ELEMENTS 
+Order of items
+
+LIST is represented by [ ] SQUARE Brackets!!!! 
+
+a = []
+
+Properties of a LIST:
+
+=== Elements in a list are in a ORDER
+They are MUTABLE --- CHANGABLE!!!!! 
+Dupliactes are allowed in the LIST
+You can have any of the datatype in the LIST 
+
+If you are going for a SUPERSTORE!!! when you go for Billing!!!! 
+
+10 Items!!!! will the billing counter help you with One Consolated bill or 10 Individual bills? ----1 BILL with 10 Items!!!! 
+
+
+Append means --- -Adding the data at the last!!!!! 
+
+POP ---- It used to remove the last value
+APPEND --- It is used to add the values in the last 
+
+
+list1 = ['Sukanya',234, 34.65,'Data Science',True]
+
+EXTEND --- The output will be also comma seperated!!!!!
+
+
+Recap --- 
+
+Loop Controls --- Break and Continue
+
+Treminate the loop --- -Break
+Skip the current iteration --- Continue
+
+
+String Manipulation Functions!!!
+
+If I'm not aware of the functions that are available on the STRING data!!!! ---- dir(str) 
+
+If I'd like to know the syntax of the particular function === help(variable.functionname)
+
+List of string Functions!!!
+
+Upper
+Lower
+Strip
+lstrip
+rstip
+reverse
+split
+capitalize 
+count
+indexing
+join
+
+Data Structures of Python --- LIST
+
+WHat is the Representation of a LIST === [ ]
+Can I modify the elements in the list? ==== Yes === MUTABLE
+Can I get the Index or the position of the element === =YES ---- INDEXING!!!! 
+How many types of Indexing? 
+2 types: 
+1. Postitive indexing ---- starts from 0 
+2. Negative Indexing ---- starts from -1 
+We have seen Slicing!!!!
+[start: stop: step]
+
+
+SET!!!! 
+Properties of Set: 
+It is represented in { } -- FLOWER BRACKETS!!!!
+SET is UNORDERED 
+Duplicates are not allowed in the sets
+we can't access the elements in the set by using indexing!!!! --- SET is UNORDERED 
+
+It is used for the Mathematical set  theory ---- Union, Intersection etc.... 
+
+When we use Append elements will be added at the end of the list 
+
+List of groceries --- 10 items === consolidated [ ] or { } or ( ) 
+
+[Fruits --- str
+Shirt -- str
+Dal -- float
+Oil -- int 
+Soaps] == =billing for single amount === int or float 
+
+
+
+list allows the duplicates, ordered, and mutable it is. 
+set  allows to store the collection of items but it doesnt be ordered but it allows the uniquecollection of different data.
+is this right?
+
+what is mutable? --- Changable or modify the  elements! 
+
+If you want to remove specific element in the set  --- REMOVE
+pop() -- It randomly remove the elements in the set 
+
+Realtime examples!!!!! ---- When you are sign in your GMAIL account --- You will getting the option type of code for authentication 
+
+AYB@IH# --- do you think when you refresh the characters all are fixed length? ----- Set!!! 
+U34n#n
+34nhN
+
+Set Creation
+Adding elements
+Removing the elements
+Pop the elements
+Clear
+Whether Indexing is working or not? ----- 
+
+Will indexing works on the sets? ---- NOOOOO!!!!!!!
+
+Union
+Difference
+Intersection == Common ELements 
+
+Set 1	set 2
+Mahesh	Rajesh
+Babu	Ramesh
+Raju	Bharath	
+Ramesh	Mahesh
+Suresh	Natarajan
+
+
+Intersection ---- common elements between the sets!!! 
+
+
+Difference: 
+
+Set 1		set 2
+Mahesh	Common	Rajesh
+Babu		Ramesh
+Raju		Bharath	
+Ramesh	Common	Mahesh
+Suresh		Natarajan
+
+Set 1 	
+
+Set 1		set 2
+Mahesh	Common	Mahesh
+Babu		Rajesh
+Raju		Bharath	
+Ramesh	Common	Ramesh
+Suresh		Natarajan
+
+Set 1 - Set 2 ==== Babu, Raju, Suresh
+
+set 2 - set 1 ==== Rajesh, Bharath, Natarajan
+
+Data Structure is Tuple!!!
+
+Properties of Tuple: 
+
+It is represented in ( ) --- Brackets!
+It is IMMUTABLE --- Once it is created we can't make any modification or changes to it. 
+It allows duplicates 
+It supports Indexing!!!!! 
+
+Example!!! --- Databases!!!! 
+
+MYSQL WORKBENCH --- Once you create a Schema --- you can you Rename it? --- FIXED settings!!! 
+
+You will generating the PIN -- ATM!!!!! ---- ICICI Bank ---- 4 digit ---  5 digit
+
+
+range(0,10) 
+
+0 to 9 -- -FIXED values!!! 
+
+
+In LIST -- -We can make changes to the LIST --- Dynamic usage 
+but in TUPLE -- ONCE it is created we can't make any changes to it.  -- Fixed usage
+
+Just as a recap: 
+
+SET!!!! -----I can Modify it 
+Represented in { } 
+
+
+TUPLES!!!!---- I can't modify it once it is created
+Count and Index
+representation of a Tuple --- ( ) 
+
+
+Can I perform Indexing in the Tuples? ---- Yes!!!!
+
+dir(list)
+dir(str)
+dir(set)
+dir(tuple)
+
+help(variablename.functionname) 
+
+
+Last type of Data Structure is DICTIONARY!!!! 
+
+Dictionary in lifetime ---- 
+
+How data is arranged ---- Alphabetical order 
+
+Employee!!!! 
+	E
+	EM
+	EMP
+	EMPLO	
+	EMPLOY	
+	EMPLOYE
+	EMPLOYEE
+In Python dictionary Key and Value 
+
+Dictionary is represented in {Key : Value} 
+
+Properties!!! 
+
+It is Mutable ---- I can Modify or change the data
+It is Unordered  --- NO Specific Index 
+Key : It has to UNIQUE -- Duplicates are not allowed  --- Key allows any of the datatype
+Value: It can have duplicates -- allows any of the datatype
+
+
+If you want to see the specific information ----  Count(6) ==== Functionname(Variable Name)
+If you want to see the comple information ==== Variable name.function name
+
+
+
+Data Structures:
+
+LIST
+SET
+TUPLE
+DICTIONARY
+
+LIST
+SET
+TUPLE
+DICTIONARY
+
+
+NumPy!!!! 
+Numerical  with Python 
+
+
+It is one type of Module --- Where you can perform all the Mathematical Operations!!!! 
+
+Addition, Sub, Multi, division, Matrix 
+
+In order to use NumPy 
+
+You need to install the Module in your local machine!!!! 
+
+
+Array!!!!! ---- It is a sequential structure of the data where it arrange the data sequentially!!!!!!
+
+0-D Array --- SCalar value ---- SIngle Value 
+1-D Array --- LIST
+2-D Array
+3-D Array 
+
+
+Matrix --- - Rows and Columns!!! 
+[0	0
+0	0]
+
+3D --- Dimention --It is combination of 2D 
+ndim -- is used to let us know what is the dimension of the array!!!!! 
+
+Shape - (2, 2, 3) 
+
+2 -- No.of blocks
+2 --- No.of Rows
+3 -- No.of Columns
+
+How Average is calculated ---- SUM of all the Observations / Total no.of Observations
+
+Creat a array and find the following:
+SUM
+MEAN -- Average
+MIN
+MAX
+
+If someone asked you to generate zeros in a Matrix format ---- np.zeros
+
+to generate ones in a Matrix format ---- np.ones
+
+Identity matrix? 
+diagonal elements will be one!!!!
+Indentity matrix ---- np.eye
+
+
+You are working on Numpy Module and you see the result in SQUARE Bracket --- it is a LIST? ---- NOOOO
+
+Because the elements are not seperated by COMMA ---- and type of the data is ARRAY!!!!!
+
+1,10, 2
+
+It wioll provide 2 values!!!!
+
+
+You are 1 to 10 rupees
+
+There are 3 ppl ---- 3.33 + 3.33+3.33
+
+1 ---- 
+2 --- 
+3 ---
+
+
+Slicing : ---- [STart:stop:step]
+
+[[1, 2] [2,4]]
+
+[[1 2] --- 0 
+0 1 
+ [2 4] ---- 1 ]
+0 1	
+
+
+2 -D --- Rows and Columns 
+
+Can five values fit in 2 rows and 3 columns --- NO!!!!
+
+Going to convert 1D to 2D 
+
+[1,2,3,4,5,6,7] ==== 7 
+Rows and Columns!!!! 
+
+7 X1 = 7
+1X 7 = 7
+
+8 
+
+2 X 4 = 8 
+4 X 2 = 8 
+1 X 8 = 8 
+8 X 1 = 8 
+
+Stacking!!! --- Vstack and Hstack 
+
+For HSTACK -- Structure is not required ------ Columns will increase
+
+For VSTACK --- STRUCTUE is required --- ROWS will Increase 
+
+a = ["Apple", "Mango", "Grapes"]
+
+# Iterating list using enumerate to get both index and element
+for i, name in enumerate(a):
+    print(f"Index {i}: {name}")
+
+
+
+np.array!!!!!
+np.array(value) -- 0D
+np.array([23,234,34]) - 1D
+2D --- Matrix --- Rows and Columns
+3D -- Combination of 2D's 
+Arthimetic Operators !!!! +, - , / and * 
+np.zeros
+np.ones
+np.eye
+np.linspace
+Can I find the Index in an Array? --- YES!!!!
+Can I extract or Slice the elements in an Array? --- YES!!!!
+Can I convert 1 D to 2D? ----- reshape
+Can I generate a range of numbers? ----- YES 
+np.arange
+If I want to increase the columns with 2 to more arrays with different structure -----  H-Stack
+If I want to increase the rows with 2 or more arrays with same structure ---- V-stack 
+
+Pandas!!!!! 
+
+It is  used for the Data Manipulation!!!!! 
+
+You will be working on the dataset!!!! 
+Rows and Columns!!!
+
+SQL have you Data Analysis ---- YES!!!!! SQL QUERIES and by using the Functions!!!!
+
+You are working for E-Commerce company called as Amazon --- 
+
+Oneline shopping!!!! 
+
+They will be generating the data!!!
+
+Sl.no	Customer name	location 	Item code		Item description	Quantity	price	Discount	Tax	Final amount
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Millions of data!!!! 
+
+They would like to predict the data for future!!!
+
+Last dhamaka sale ----- 10 Million Dollar
+for 2025 what might be might Dhamaka Sales!!!! 
+
+They will predict using the past data!!!! 
+
+Do you think that the past data is complete having ZERO Errors!!!! ---- NOOOO!!!!!! 
+
+There might be Missing values
+There might be Duplicates
+There might data entry issue ---instead of 1000 they might mention 10000
+
+
+In order to predict the future you need to have a clean data so that you can draw meaningful insights!!!! 
+
+by PANDAS MODULE!!!!!!! 
+
+Machine Learning ---- Pandas plays a Major role!!!! 
+
+What are the Modules that are required to develop a Machine Learning model to predict the future accurately!!!!
+
+1. Pandas --- Data Manipulation ----it is used for Understanding of the data and Data Cleaning
+2. Numpy ---- Numerical calculations 
+For Visuals 
+3. Matplotlib --- Basic Data Visualizations  -- Histogram, countplot 
+4. Seaborn ---- Advanced Data Visualizations 
+5. Sklearn -- Model Building and Model Evaluation 
+
+SQL and Python 
+
+In SQL you are analysis ---- Yes -- 
+
+Can you visual the data in a Pictorial Representation --- NO
+
+Is ER diagrams are pictorial representation ---- NO!!!!! 
+
+Relationship between the tables 
+
+Databases!!!!! 
+
+We can connect from SQL to IDE using the Python code!!!! 
+
+
+If it is taking TOO Much of tim to run or execute the block of Code make sure that you are enough spce in your Google Drive
+
+If you are less space in your Google Drive it will slow down your execution of code!!!
+
+You downloaded the file in your Local Machine!!!!  ---- Offline 
+You are accessing Google Colab through Internet!!!! --- Online ---- Upload 
+
+I would like access the files that are available from the Modules or packages to practice more and more on the data!!! 
+
+Is it clear in Uploading of the datasets in IDE
+
+We will Understand the structure of the data!!!
+df.head() -- Top Rows
+df.tail() -- Bottom Rows 
+df.shape --- -Shape of the data --- How many Rows and How many Columns
+df.columns ---- it will fetch what are all columns that are available in the dataset 
+
+float64
+int64
+
+It is 64-bit!!!! 
+
+Datatypes in Python 
+Int
+float
+boolean
+string ==== Object
+
+I want to whether there are missing values are not
+
+df2.isnull().sum()
+
+1
+2
+3
+NULL  --- 1
+5
+5
+6
+NULL --- 1
+8
+9
+
+1 + 1 = 2 
+
+If there is a NULL value --- TRUE 
+otherwise --- False 
+
+There are NULL values 
+
+I want to check wthether there are duplicates!!!! ---- Repetative values
+
+1
+2
+2
+3
+3
+4
+4
+5
+6
+7
+8
+
+2 is 2 times or values out of which 1 is duplicate!!! 
+
+India ---- Hyderabad
+Pakistan ---- Hyderabad 
+
+
+Data Understanding 
+
+
+We understood the data ---- Are we performing any of the prepreocessing stepss!!!!
+
+Preprocessing steps: 
+Removing of the duplicates
+Removing of the Null Values 
+
+Are we performing any  of the cleaning steps? ---- NOOOOOO
+
+EDA ---- EXPLORATORY DATA ANALYSIS!!!! 
+
+with the existing without applying any of the tranformation and drawing the meaningful insights!!!! 
+
+In order to explore the data what are the Packages are needed? 
+Seaborn 
+Matplotlib
+Pandas 
+
+EDA -- We understand the data structure
+head
+tail
+columns
+null values
+duplicates
+dtypes
+Outlier!!!
+
+Outlier is nothing an extreme value that differ from the remaning values 
+
+You can check by using plot called as BOX PLOT it also called as Whisker Plot or 5 Box Summary or 5 plot summary 
+
+Mahesh
+Babu
+Raju 
+
+Describe function is used to help us with the stats on the NUMERICAL COLUMNS ONLY!!!!!! 
+
+1
+2
+3
+4
+5
+8
+6
+67  -- it might be a wrong entry!!!!  it might 6 or 7 
+7
+8
+8
+-99
+
+Minimum value  = Q1 - 1.5(IQR) 
+INTER QUARTILE RANGE
+IQR --- Q3 - Q1 
+Maximum Value = Q3+1.5(IQR)
+
+Percentage out of 100 what is the value 
+1500 - 50% === 750 ----- It is a single value
+1500 - 49% ==== 675 --- 
+
+
+Percentile means!!! 100 is at 25%
+the value 100 falls from 0 to 25% 
+
+0 to 25% 
+
+100
+200
+400
+300
+
+falls below 25% 
+
+Min to 25% percentile ---- 
+
+Can you please go through the research on Percentage and Percentile!!! 
+
+Minimum  	25% 	50% 	75% 	Maximumm ==== Percentile === BOX -plot 
+
+0 	25% 	50% 	75%  100% ==== Percentage 
+
+
+Histogram ---- it takes about the distribution of the data 
+
+X-axis ---- Data Points
+Y -axis ---- Frequency or Count 
+
+Bins are calculated using the Strugs rule!!! 
+
+bins = 1 + log2(n) 
+n --- no.of observations
+
+n = 150 
+
+Histogram -- Talk about the distribution of the data
+Boxplot --- Talk about the to check the outliers in the data
+
+Correlation plot 
+
+checking the relationship between the variables!!!!
+
+how strongly the variables are dependent to each other 
+
+If age increase ----- Salary increases? ==== YES!!!!!
+If age increase ---- running speed --- increase or decrease?  ===== Decrease!!!!
+
+WHat is the correlation between you and your father? ----- strong or Moderate or Weak ----- STRONG 
+
+What is the correlation between you and Me? ---- Moderate 
+
+What is the correlation between you and Microsoft CEO Satya --- Weak 
+
+In order to visual the Correlation between the variables ---- Heatmap 
+
+Correlation can be see with NUMERICAL Variables!!!!! NO CATGORICAL variables.
+
+
+In order to check whether the variables are strong, Moderate or Weak by using the CORRELATION COEFFICIENT |r|
+-3 ==|-3| ==== 3 
+
+
+DId I perform any of the data cleaning in EDA!!!!! 
+
+Data Understanding ---- EDA!!!!! 
+
+SHape
+Head
+Tail
+info
+describe
+dtypes
+columns
+duplicates
+null values
+Plot --- Histogram -- check the distribution
+Boxplot -- outliers 
+heatmap --- Correlation 
+
+WHen a client provided the data to you --- You need to understand and info to the client stating that this what your current business is going on? 
+
+Data is very much precious 
+
+Why there are NULL values in the data!!!! 
+
+Tomorrow you have module test ----- No one informed to you!!! 
+
+
+WHy you haven't informed to me? 
+
+If I remove from this class? 
+
+if you not responding --- Can I blindly remove you from the class? 
+
+
+Before Joining to ODINSCHOOL ---- Research!!!! 
+
+Explored the website
+explored in YouTube or social Media 
+Sales person!!!!
+Without your confirmation did they allow you to the Technical Live sessions?
+
+Without put any questions did thy ask you to JOIN in ODINSCHOOL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

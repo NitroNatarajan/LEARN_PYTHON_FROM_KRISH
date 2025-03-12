@@ -3,14 +3,12 @@
 # import keyword;
 
 # print(keyword.kwlist)
-# ['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 
-#  'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 
-#  'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or',
-#    'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+# ['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 
+# 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or',
+# 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
 
-
-# num1 = int(input('Enter the numerical value you like: \n'))
-# num2 = int(input('Enter the second number you like: \n'))
+# num1 = float(input('Enter the numerical value you like:\n'))
+# num2 = float(input('Enter the second number you like:\n'))
 
 # addition = num1 + num2
 # print(f"Addition: {addition}")
@@ -31,7 +29,7 @@
 # print("India" == "India")
 # a=20
 # b=30
-# ==  
+# ============   
 
 # print(a == b) # False
 # print(a != b) # True
@@ -45,7 +43,8 @@
 # is..elif..else..-> to execute the multiple conditional statements 
 # nested if -> to check the multiple conditions in a hierarchy..
  
-""" number = int(input("Enter a number : \n"))
+""" 
+number = int(input("Enter a number : \n"))
 if number > 0 :
   print(f"This is a positive number : {number}")
   if number%2 == 0:
@@ -59,8 +58,8 @@ else:
   if number%2 == 0:
     print(f"Thus number : {number} is even. ")
   else:
-    print(f"The number : {number} is odd") """
-
+    print(f"The number : {number} is odd") 
+"""
 
 """
 age = int(input("Enter your age : \n"))
@@ -78,7 +77,8 @@ else:
   print(f"This number {num} is odd number.")
 """
 
-""" word = str(input("Enter the string: "))
+"""
+word = str(input("Enter the string: "))
 if word[0] == 'a' or 'A':
   print('This name is started with {word[0]}') """
 """ 
@@ -88,11 +88,13 @@ if 'A' in word or 'a' in word:
 
 # print('Apple'.startswith('A'))
 
-""" age = int(input("Enter the age : "))
+""" 
+age = int(input("Enter the age : "))
 if age>= 18:
   print(f"Age {age} , your are eligible to vote.")
 else:
-  print(f"The age {age}, you will have to wait {18 - age} more years to get voting rights. ") """
+  print(f"The age {age}, you will have to wait {18 - age} more years to get voting rights. ") 
+"""
 
 """ 
 num = float(input("Enter a number: "))
@@ -157,12 +159,14 @@ else:
 count = 5
 while count >= 1:
   print(count)
-  count -=1 """
+  count -=1 
+"""
 """ 
 count = 0
 while count < 5:
   print(5- count)
-  count += 1; """
+  count += 1; 
+"""
 
 """ for num in range(1,11,1):
   print(f"{num} * {5} = {num*5}") 
@@ -176,3 +180,5 @@ while count < 5:
 
 # for num in range(2,11,2):
 #   print(f"Even: {num}")
+
+
