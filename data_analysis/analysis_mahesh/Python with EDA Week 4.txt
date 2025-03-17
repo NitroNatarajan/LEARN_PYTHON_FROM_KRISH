@@ -1,0 +1,175 @@
+EDA 
+Data Understanding and data structure 
+NAN === Not A Number -- Blank 
+
+NAN / NULL 
+
+Percentile: 
+
+Percentile always talks about the Position: 
+
+Position === Percentile * ( Total Number of values + 1) 
+
+Total Number of values!! for the Age column is 1950 
+
+It will arrange the data either in Ascending or Descending Order 
+
+25% === 
+
+0.25 * (1950 +1) 
+0.25 * 1951 = 487.75
+487th and 488th  position
+
+
+0.5 * 1951  = 975.5 
+975 and 976 
+
+0.75 * 1951 = 1463.25
+1463 and 1464 
+
+Min  == 18 
+Max == 59 
+25% == 28 
+50% == 39 
+75% == 49 
+
+Position = Percentile * (Total Number of Values + 1) 
+
+Total number of values for the Height Column === 2000
+
+Height Column Stats
+
+Max = 197
+
+Min = 136 
+
+25% =  0.25(2001) = 500.25
+500 and 501 ====== 163 
+
+50% = 0.5(2001) = 1000.5
+1000 and 1001 ===== 169 
+
+
+75%  = 0.75(2001) = 1500.75
+1500 and 1501 ==== 176
+
+It will arrange the data in the ASCENDING ORDER!!!!! 
+
+Exercise === what is the value of the 90th percentile for the Height Column === 182 
+
+In Calories_Burned column what is the value of 25th Percentile? 
+
+0.25 * (2001) 
+
+222.28
+223.07
+
+222.675 is the 25th percentile value for the Calories_Burned column
+
+
+Steps_per_Day
+ 
+Min
+Max
+mean
+median
+
+
+25th, 50th, 75th percentiles values for the Heart_Rate column 
+
+Age in to groups 
+
+<25 Child 
+<60 Adult
+Senior 
+
+
+
+BMI Calculations 
+
+(Weight in kgs) / (Height in m)^2 
+
+<18.5 === Underweight
+ <25 === Normal
+<30 == Overweight 
+Obese 
+
+
+There is Jar of chocolates!!!! Eclares!!!! Candy!!! Fruity !!! Cadbury!!!!
+
+4 Types!!!! 
+
+4 chocolates!!!! 
+ --- Mulitiple 
+
+If I ask you to segregate the columns!!!! 
+
+Eclares --- 70 
+Candy -- 25
+Fruit -- 10
+Cadbury -- 50 
+
+Total --- 135 
+
+if I want to draw the bars!!!!
+
+Strug's rule 
+
+1 + log2(N) 
+
+1 + log2(2000)
+
+Default bins based upon your data!!!!!
+
+Total number of variables or Observation or Entities!!!! 
+
+By default histogram will generate 10 bins!!!!! 
+
+For Categorical data --- histogram is not appropriate ---- Bar plot ---- It is hard to find the values
+
+Count plot 
+
+HISTOGRAM is best suited for the NUMERICAL VARIABLES!!!! --- Distribution of the data!!!!
+
+BAR PLOT is best suited for the Cetgorical Variables!!!!  --- Count of the Categorical Variables!!!! 
+
+
+
+Matplotlib is used for the Basic Visuals
+
+To get the advanced -- -Seaborn 
+
+You can see the Histogram in Matplotbit as well as in Seaborn
+
+When someone ask you to see the distribution of the data!!!! ---- Histogram from the MATPLOTLIB
+Plt.hist  with bars 
+
+Whenone ask you to plot BOX PLOT to check for the Outliers ---- sns.blox plot 
+
+When Someone ask you to perform the relationship between the variables --- Correction ---- Heatmap from the sns.heatmap 
+
+When you will go for Line Chart!!!!!  when you have time series data!!!!! 
+
+
+Correlation ---- Relationshiop between the variables!!!! 
+
+
+Let's calcualte correlation: Steps_per_Day Calories_Burned
+
+
+
+Sum((Xi - X Bar)^2  *  Sum((Yi - Y Bar)^2
+
+Segration of the Numerical and Categorical Varaibles
+
+
+Correlation will apply only on the NUMERICAL data ---It will not work on the Categorical Data 
+
+
+The purpose to check is it will be helping for the Model Building in the Machine Learning
+
+
+Tomorrow we will be working on the Guided project!!!! 
+
+
+

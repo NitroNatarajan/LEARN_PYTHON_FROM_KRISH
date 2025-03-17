@@ -181,4 +181,8 @@ while count < 5:
 # for num in range(2,11,2):
 #   print(f"Even: {num}")
 
+from package.maths import add
+print(add(50,40))
 
+from package.subpackage.multi import multiply
+print(multiply(2,3))

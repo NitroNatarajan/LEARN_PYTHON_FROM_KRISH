@@ -1,0 +1,52 @@
+Code Modular 
+
+before going to the python code / file in IDE 
+
+Please go through the dataset in either CSV or EXCEL 
+
+I want to segregate what are numerical and categorical columns 
+
+position = percentile(total number of values + 1) 
+
+0.25(Total values in respecttive columns + 1) 
+
+countplot --- bars==== how many times the value is repeating!! 
+
+when performing Visual do I need to import any of the packages? 
+
+Matplotlib and Seaborn 
+
+pip is used to Install the package in your IDE --- it is one time!!!!! 
+
+You are installing an APP in your phone 
+
+ICICI bank app ---- use n number of times!!! 
+
+!pip install (Package name) 
+
+already installed 
+
+if you are connected with multiple dataframes or datasets!!!! 
+
+Matplotlib -- 
+
+sns.countplot(data = df, x = 'Experience_Level')
+
+step 1: data = df
+step 2: take the X-axis as df['Experince_Level']
+Step3: it will count for the individual values 
+
+correlation = df.select_dtypes(include=['int64', 'float64']).corr()
+print(correlation) 
+
+How is this project? 
+
+Easy 
+Medium
+Hard
+
+
+
+
+
+
